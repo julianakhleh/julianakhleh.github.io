@@ -64,7 +64,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #28a745;
   text-align: left;
   background-color: #fff;
 }
@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: turquoise;
+  color: steelblue;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: teal;
+  color: steelblue;
   text-decoration: underline;
 }
 
@@ -504,7 +504,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: turquoise;
+  color: steelblue;
   word-wrap: break-word;
 }
 a > code {
@@ -4600,7 +4600,7 @@ input[type=button].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: turquoise;
+  color: steelblue;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -6097,7 +6097,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: turquoise !important;
+  background-color: steelblue !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9799,11 +9799,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: turquoise !important;
+  color: steelblue !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: turquoise !important;
+  color: steelblue !important;
 }
 
 .text-secondary {
@@ -10100,7 +10100,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: turquoise;
+  background-color: steelblue;
 }
 
 .dev-icons {
